@@ -1,0 +1,1 @@
+std::vector<bool> vec; // ... some operations on vec ... bool b = vec[i]; // Accessing element i
